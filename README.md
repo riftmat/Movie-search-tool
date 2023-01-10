@@ -1,4 +1,4 @@
-# Movie-search-tool
+# Movie-search-tool 🎥🔍
 Movie searching app. Created using JS Mastery tutorial.
 
 # Getting Started with Create React App
