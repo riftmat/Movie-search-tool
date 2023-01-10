@@ -1,5 +1,6 @@
 # Movie-search-tool 🎥🔍
 Movie searching app. Created using JS Mastery tutorial.
+After cloning this files you need to instal npm in directery where you droped it.
 
 # Getting Started with Create React App
 
